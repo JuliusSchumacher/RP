@@ -1,0 +1,13 @@
+Jaktutrusning	Sadelväska
+Lägerutrustning	Sadelväska
+Gifter		Läderpung i ryggsäck
+Lyra		Ryggsäck
+Vattensäck	Ryggsäck
+Spik (dussin)	Läderpung i ryggsäck
+Ståltråd 1m	Läderpung i ryggsäck
+Handyxa		Utsidan på ryggsäcken
+Koger, 12 pil	Utsidan på ryggsäcken
+Vildmarkskläder	Buren, även utanpå rustning
+Dyrkar		Nyckelknippa
+Klätterpryl	Ryggsäck
+Ringläder	Buren

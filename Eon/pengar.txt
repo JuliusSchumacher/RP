@@ -1,0 +1,4 @@
+35 Solida	Gömda(Packning)
+165 Denarer	Gömda(Packning)
+70 Denarer	Penningpung
+65 Cupra	Penningpung
